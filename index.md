@@ -20,7 +20,7 @@ Houston, TX, USA
 
 I’m a software engineer with 10+ years of experience building distributed backend systems, data platforms, and cloud-native infrastructure for logistics and technology products. My work includes event-driven architectures, Kafka and CDC pipelines, scalable APIs, database systems, Kubernetes, production reliability, and technical leadership.
 
-Alongside my full-time engineering work, I conduct and collaborate on applied AI research spanning continual learning, model adaptation and evaluation, multilingual NLP, medical AI, and trustworthy machine learning.
+Alongside my full-time engineering work, I conduct and collaborate on applied AI research spanning continual learning, model adaptation, and evaluation, multilingual NLP, medical AI, and trustworthy machine learning.
 
 I earned an M.S. in Computer Science from the University of Houston, where I worked on GPU-accelerated medical-imaging and applied AI systems. Alongside my full-time engineering work, I independently research continual learning and collaborate on applied AI/ML studies.
 
@@ -67,7 +67,7 @@ University of Houston (Das Lab & CBL) · 2021 — 2023
 
 **COVID-19 Vaccine Misinformation NLP**
 - First-author research on misinformation and conspiracy-theory detection.
-- An English-only dataset of manually labeled North American social-media comments for COVID-19 vaccine misinformation and conspiracy-theory detection.
+- An English-language dataset of manually labeled North American social-media comments for COVID-19 vaccine misinformation and conspiracy-theory detection.
 - Includes Hugging Face dataset release, BERT pipeline experimentation, and ethics-focused framing.
 - [Hugging Face dataset](https://huggingface.co/datasets/AminHasibul/covid-vaccine-conspiracy) · [arXiv paper](https://arxiv.org/abs/2211.13003)
 
@@ -140,11 +140,11 @@ English-language dataset of manually labeled North American social-media comment
 
 ## Education
 
-**M.S. Computer Science**
+**Master of Science in Computer Science**
 University of Houston · 2021 — 2023
 Research focus: GPU-accelerated medical imaging and applied AI systems
 
-**B.Sc. in Computer Science and Engineering**
+**Bachelor of Science in Computer Science and Engineering**
 American International University-Bangladesh (AIUB) · 2012 — 2015
 
 ---
