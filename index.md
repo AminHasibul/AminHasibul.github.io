@@ -127,7 +127,6 @@ This arXiv version is the preprint; a revised negative-results analysis and repr
 **Detecting Conspiracy Theory Against COVID-19 Vaccines**  
 *Md Hasibul Amin, et al.*  
 arXiv preprint, arXiv:2211.13003 (Cited)  
-English-language dataset of manually labeled North American social-media comments for COVID-19 vaccine misinformation and conspiracy-theory detection.  
 [[arXiv]](https://arxiv.org/abs/2211.13003) · [[dataset]](https://huggingface.co/datasets/AminHasibul/covid-vaccine-conspiracy)
 
 ---
@@ -146,7 +145,7 @@ University of Houston · 2021 — 2023
 Research focus: GPU-accelerated medical imaging and applied AI systems
 
 **Bachelor of Science in Computer Science and Engineering**
-American International University-Bangladesh (AIUB) · Graduated 2015
+American International University-Bangladesh (AIUB) · 2012 — 2015
 
 ---
 
