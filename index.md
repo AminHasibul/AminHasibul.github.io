@@ -87,19 +87,19 @@ University of Houston (Das Lab & CBL) · 2021 — 2023
 ### 2027 (Under Review)
 
 **Residual Stream Rebalancing: Training-Free Hallucination Mitigation in Vision-Language Models**  
-*Niamul Hassan Samin, ..., Md Hasibul Amin, et al.*  
+*Niamul Hassan Samin, Md Hasibul Amin, et al.*  
 WACV 2027, Under Review  
 [[OpenReview]](https://openreview.net/forum?id=Cl0TWcT3wn)
 
 **When Detector-Based Grounding Metrics Measure Vocabulary: A Cautionary Audit of Entity Claims in Video-QA Reasoning Traces**  
-*Md Ashikur Rahman, ..., Md Hasibul Amin, et al.*  
+*Md Ashikur Rahman, Md Hasibul Amin, et al.*  
 WACV 2027, Under Review  
 [[OpenReview]](https://openreview.net/forum?id=rJFxezNBiu)
 
 ### 2026
 
 **Evaluating Parameter-Efficient Fine-Tuning of Open-Weight LLMs for Medical Question Answering**  
-*Zidan A.H., ..., Md Hasibul Amin, et al.*  
+*Zidan A.H., Md Hasibul Amin, et al.*  
 18th IEEE International Conference on Computational Intelligence and Communication Networks (CICN 2026)  
 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11594337)
 
@@ -126,6 +126,7 @@ This arXiv version is the preprint; a revised negative-results analysis and repr
 **Detecting Conspiracy Theory Against COVID-19 Vaccines**  
 *Md Hasibul Amin, et al.*  
 arXiv preprint, arXiv:2211.13003 (Cited)  
+English-language dataset of manually labeled North American social-media comments for COVID-19 vaccine misinformation and conspiracy-theory detection.  
 [[arXiv]](https://arxiv.org/abs/2211.13003) · [[dataset]](https://huggingface.co/datasets/AminHasibul/covid-vaccine-conspiracy)
 
 ---
@@ -144,7 +145,7 @@ University of Houston · 2021 — 2023
 Research focus: GPU-accelerated medical imaging and applied AI systems
 
 **B.Sc. in Computer Science and Engineering**
-American International University-Bangladesh (AIUB) · Graduated 2015
+American International University-Bangladesh (AIUB) · 2012 — 2015
 
 ---
 
