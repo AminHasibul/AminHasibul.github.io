@@ -68,6 +68,7 @@ University of Houston (Das Lab & CBL) · 2021 — 2023
 **COVID-19 Vaccine Misinformation NLP**
 - First-author research on misinformation and conspiracy-theory detection.
 - An English-language dataset of manually labeled North American social-media comments for COVID-19 vaccine misinformation and conspiracy-theory detection.
+- Separate from my multilingual fraud-detection research, this dataset is intentionally English-language only.
 - Includes Hugging Face dataset release, BERT pipeline experimentation, and ethics-focused framing.
 - [Hugging Face dataset](https://huggingface.co/datasets/AminHasibul/covid-vaccine-conspiracy) · [arXiv paper](https://arxiv.org/abs/2211.13003)
 
@@ -145,7 +146,7 @@ University of Houston · 2021 — 2023
 Research focus: GPU-accelerated medical imaging and applied AI systems
 
 **Bachelor of Science in Computer Science and Engineering**
-American International University-Bangladesh (AIUB) · 2012 — 2015
+American International University-Bangladesh (AIUB) · Graduated 2015
 
 ---
 
